@@ -11,4 +11,6 @@
   display: none;
 }
 
-#wall #class
+#wall #class.tag-4 {
+  display: none;
+}
